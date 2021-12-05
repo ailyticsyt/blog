@@ -26,5 +26,3 @@ fields:
     required: false
   label: Hello world
   description: just trying my new post
-pages:
-- content/post/generative-deep-learning/hello.md
